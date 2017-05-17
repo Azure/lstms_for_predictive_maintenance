@@ -1,5 +1,10 @@
 # Deep Learning for Predictive Maintenance #
-We attempt to use a deep learning model, Long Short Time Memory ([LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)) in particular, to predict component failures as described in the [Predictive Maintenance Modelling Guide](https://gallery.cortanaintelligence.com/Notebook/Predictive-Maintenance-Modelling-Guide-R-Notebook-1).
+We attempt to use deep learning models, Long Short Time Memory ([LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)) in particular, for solving predictive maintenance problems.
+
+
+ The notebook LSTM_PdM uses LSTMs to predict component failures as described in the [Predictive Maintenance Modelling Guide](https://gallery.cortanaintelligence.com/Notebook/Predictive-Maintenance-Modelling-Guide-R-Notebook-1).
+
+ The notebook Predictive Maintenance Template vs Deep Learning aims at building an LSTM network for the scenerio described at [Predictive Maintenance Template](https://gallery.cortanaintelligence.com/Collection/Predictive-Maintenance-Template-3) to predict remaining useful life of aircraft engines. 
 
 # Contributing
 
